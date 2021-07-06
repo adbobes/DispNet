@@ -14,12 +14,12 @@ Dataset:
 
 [Datset](https://lmb.informatik.uni-freiburg.de/resources/datasets/FlyingChairs.en.html)
 
-## Data Set and results
-![Sample Images](preview/sample.png)
-
 ### Virtual Environment
 - Using google cloud console, spin a VM instance with ubuntu-16.04-lts images and 1 Nvidia K80 GPU
 - Drive memory 10GB or more
+
+## Dataset preview
+![Sample Images](preview/sample.png)
 
 ## Results
 ![Sample Images](preview/train.png)
