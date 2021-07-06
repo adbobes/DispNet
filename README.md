@@ -2,7 +2,8 @@
 ## Disparity Estimation Network Architecture
 
 This is an attept to recreate the DispNet training env. via python and google cloud.
-![Sample Images](preview/example.png)
+
+![Model](preview/example.jpg)
 
 
 ## Introduction
